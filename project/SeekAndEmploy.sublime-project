@@ -1,0 +1,16 @@
+{
+    "folders":
+    [
+        {
+            "path": "/home/thiago/projects/seekandemploy",
+            "folder_exclude_patterns": [".*"]
+        }
+    ],
+    "settings":
+    {
+        "rope_autoimport_modules":
+        [
+            "numpy.*"
+        ]
+    }
+}

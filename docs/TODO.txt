@@ -1,0 +1,4 @@
+TODO List
+=========
+
+- Convert bin/install.sh to a setup.py (http://guide.python-distribute.org/creation.html)
